@@ -10,6 +10,7 @@
 5) Now call on the number provided by kookoo.in using your pin number
 6) That's all, see the app running yourself
 
+## What It Will Do :-
 
 1) When the user calls the number, it will ask them if they are male(1) or female(2)
 2) If the user chooses male, then it will ask them if they are above 21(1), or below(2). For
